@@ -36,12 +36,15 @@ Attempt the following tasks:
 
 3. Modify the script so that it now imports the CSV file that holds the February data and saves it into a variable called `sales_feb`.
 
+## Participation task
+
+Save the script that you created in activity 2 and submit it to the week 7 practical 1 participation task submission box. Once you have done it, show your submission to your tutor so that she can record your participation.
+
 ## OPTIONAL Activity 3 - Use your peer's script (10 minutes)
 
 This activity is optional for those who completed activities 1 and 2.
 
-Exchange your script with your peer. Use your peer's script to import the March data and save it into a variable called `sales_mar`. Discuss any problems that you encountered and whether/how the script that you received can be improved to solve these problems.
-
+Exchange your script from activity 2 with your peer. Use your peer's script to import the March data and save it into a variable called `sales_mar`. Discuss any problems that you encountered and whether/how the script that you received can be improved to solve these problems.
 
 
 # PRAC_02
@@ -67,6 +70,10 @@ In weeks 1 to 5 you have learned some of the basics of Excel that can help you t
 Choose one of your answers to activity 1 and write specific instructions that would help someone else complete the activity.
 
 Now, exchange your instructions with those of your peer and discuss how good they are for reproducibility. Are the instructions clear enough to help you complete the task?
+
+## Participation task
+
+Submit your assessment of your peer's instructions to the week 7 practical 2 participation task submission box. Once you have submitted it, show your submission to your tutor so that she can record your participation.
 
 ## OPTIONAL Activity 3 - Git and Github (10 minutes + 5 minutes discussion)
 

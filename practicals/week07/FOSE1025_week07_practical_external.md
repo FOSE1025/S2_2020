@@ -36,15 +36,15 @@ Attempt the following tasks:
 
 3. Modify the script so that it now imports the CSV file that holds the February data and saves it into a variable called `sales_feb`.
 
-### Participation task
+## Participation task
 
-Save your script and submit it to the week 3 practical 1 participation task submission box.
+Save the script that you created in activity 2 and submit it to the week 3 practical 1 participation task submission box.
 
 ## OPTIONAL Activity 3 - Use your peer's script
 
 This activity is optional for those who completed activities 1 and 2.
 
-Post your script in the iLearn discussion forum so that other peers can see it. Choose a script posted by a peer.
+Post your script from activity 2 in the iLearn discussion forum so that other peers can see it. Choose a script posted by a peer.
 
 Use your peer's script to import the March data and save it into a variable called `sales_mar`. Discuss any problems that you encountered and whether/how the script that you received can be improved to solve these problems.
 
@@ -52,7 +52,7 @@ Use your peer's script to import the March data and save it into a variable call
 
 ## Activity 1 - Excel to Manage Data in Science
 
-Below is a list of steps that are commonly used to manage data. The list is an extract from one of the slides of lecture 5.
+Below is a list of steps that are commonly used to manage data. The list is an extract from one of the slides of the lecture of week 6.
 
   1. Import data from external files.
   2. Explore the data.
@@ -72,9 +72,9 @@ Choose one of your answers to activity 1 and write specific instructions that wo
 
 Now, exchange your instructions with those of your peer (use the iLearn discussion forum for this) and assess how good they are for reproducibility. Are the instructions clear enough to help you complete the task?
 
-### Participation task
+## Participation task
 
-Submit your assessment of your peer's instructions.
+Submit your assessment of your peer's instructions to the week 7 practical 2 participation task submission box.
 
 
 ## OPTIONAL Activity 3 - Git and Github
