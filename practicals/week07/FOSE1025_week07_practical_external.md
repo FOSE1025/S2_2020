@@ -38,7 +38,7 @@ Attempt the following tasks:
 
 ## Participation task
 
-Save the script that you created in activity 2 and submit it to the week 3 practical 1 participation task submission box.
+Save the script that you created in activity 2 and submit it to the week 7 practical 1 participation task submission box.
 
 ## OPTIONAL Activity 3 - Use your peer's script
 
