@@ -42,7 +42,7 @@ Submit an excel file with your solution to activity 2 to the week 8 practical 1 
 
 A problem that you may encounter with Excel is that what looks a date is actually a string. Can you tell which is which in the following spreadsheet?
 
-* [date_or_string.xlsx]
+* [date_or_string.xlsx](date_or_string.xlsx)
 
 To determine whether a cell contains a date or a string, conduct the following tests:
 
